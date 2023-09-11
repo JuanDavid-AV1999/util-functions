@@ -1,0 +1,10 @@
+{
+  "name": "util-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "JuanDavid-AV1999",
+  "license": "ISC"
+}
